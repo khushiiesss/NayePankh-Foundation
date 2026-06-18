@@ -1,0 +1,6 @@
+{
+  "name": "NayePankh Foundation",
+  "description": "Empowering underprivileged children through educational support, skill development, and community-driven crowdfunding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
